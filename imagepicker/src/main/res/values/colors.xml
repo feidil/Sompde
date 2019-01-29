@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_back_press">#323336</color>
+    <color name="ip_color_primary">#393A3F</color>
+    <color name="ip_color_primary_dark">#303135</color>
+    <color name="ip_color_primary_trans">#ec2f3335</color>
+    <color name="ip_color_press">#ffe0e0e0</color>
+    <color name="ip_camera_pre">#353535</color>
+    <color name="ip_color_accent">#1AAD19</color>
+    <color name="ip_text_secondary_inverted">#66ffffff</color>
+    <color name="ip_text_primary_inverted">#ffffff</color>
+    <color name="color_f6">#f6f6f6</color>
+    <color name="white">#ffffff</color>
+    <color name="blue">#7D7DFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="color_orange">#E0FF6100</color>
+    <color name="tab_color_false">#9b9b9b</color>
+
+</resources>
