@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/OceanTs/OceanTs.iml" filepath="$PROJECT_DIR$/OceanTs/OceanTs.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sompde.iml" filepath="$PROJECT_DIR$/Sompde.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
 </project>
