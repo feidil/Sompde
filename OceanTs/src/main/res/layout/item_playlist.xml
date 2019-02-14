@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_margin="3dp"
+        android:id="@+id/tv_name"
+        android:background="#b9b9b9"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:gravity="center"
+        android:paddingLeft="10dp"
+        android:text="CCTV"
+        android:textColor="#C31653"
+        android:textSize="20sp" />
+
+</LinearLayout>

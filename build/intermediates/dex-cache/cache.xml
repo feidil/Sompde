@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\jnr_personal\zff\Sompde\XrecyclerView\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="5fc04f6fa8ce279e6c03650b5580da80f774eb74">
+        <dex dex="F:\jnr_personal\zff\Sompde\OceanTs\build\intermediates\pre-dexed\debug\classes_d41d600a153e1e05f7dd052ef98bf86621d07bc5.jar" />
+    </item>
+
+</items>

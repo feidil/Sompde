@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/OceanTs/OceanTs.iml" filepath="$PROJECT_DIR$/OceanTs/OceanTs.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sompde.iml" filepath="$PROJECT_DIR$/Sompde.iml" />
+      <module fileurl="file://$PROJECT_DIR$/XrecyclerView/XrecyclerView.iml" filepath="$PROJECT_DIR$/XrecyclerView/XrecyclerView.iml" />
     </modules>
   </component>
 </project>
